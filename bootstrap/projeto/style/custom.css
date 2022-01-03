@@ -1,0 +1,45 @@
+
+section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+.card {
+    width: 32%;
+    float: left;
+    margin: 5px;
+}
+h2{
+    padding-bottom: 20px;
+}
+.botao12{
+    margin-top: 15px;
+}
+#botao1{
+    margin-top: 20px;
+}
+.btn, .form-control{
+    background-color: rgba(3, 3, 255, 0.274);
+    border-radius: 30px;
+}
+.btn{
+    background-color: blue;
+}
+.btn:hover{
+    background-color: blue;
+}
+.card:hover{
+    background-color: rgb(226, 226, 226);
+}
+.imagem1{
+    margin-top: 40px;
+    border: blue solid 3px;
+    padding: 3px;
+    overflow: hidden;
+    border-radius: 80px 70px 90px 40px;
+}

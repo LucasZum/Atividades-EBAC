@@ -24,7 +24,6 @@ h2{
     margin-top: 20px;
 }
 .btn, .form-control{
-    background-color: rgba(3, 3, 255, 0.274);
     border-radius: 30px;
 }
 .btn{
@@ -42,4 +41,42 @@ h2{
     padding: 3px;
     overflow: hidden;
     border-radius: 80px 70px 90px 40px;
+}
+#sobre{
+
+    padding: 10px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+#sobre p, h2{
+    color: white;
+}
+#sobre h2{
+    color: white;
+    font-size: 50px;
+}
+#sobre p{
+    font-size: 20px;
+    color: white;
+}
+#sobre img{
+    margin-right: 10px;
+    border-radius: 800px ;
+}
+#contato{
+
+    background-color: rgba(0, 0, 0, 0.685);
+
+}
+#contato p{
+    color: white;
+}
+#contato h2{
+    color: white;
+    font-size: 50px;
+}
+#contato p{
+    font-size: 20px;
+    color: white;
 }
